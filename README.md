@@ -12,3 +12,4 @@ It had many limitations, including:
 * No piping or redirection.
 * Only builtins are: `cd`, `help`, `exit`.
 ### New features add by me:
+  * Builtins added: `pwd`, `ls`,`mkdir`,`rmdir`,`date`,`shutdown`
